@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "veg soup",
+    "orders": 200
+  },
+  {
+    "id":2,
+    "name": "veg curry",
+    "orders": 600
+  },
+  {
+    "id": 3,
+    "name": "veg pasta",
+    "orders": 300
+  },
+  {
+    "id": 4,
+    "name": "veg surprise",
+    "orders": 900
+  }
+]
